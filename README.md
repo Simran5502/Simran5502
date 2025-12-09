@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Simran5502
-- 👀 I'm an aspiring data analyst with a passion for uncovering insights from data. 
-- 🌱 I’m currently learning [Python, R, SQL] to enhance my analytical skills  
-- 💞️ I can contribute to meaningful projects that leverage data for better decision-making 
-- 📫 Feel free to explore my repositories, and connect with me if you're interested in collaborating or have any tips to share!
-- 😄Thanks for stopping by!
+Applied Artificial Intelligence student skilled in machine learning, data visualization, Python development, and building practical AI-driven solutions. Focused on clean, efficient, and industry-ready project development.
 
 <!---
 Simran5502/Simran5502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
